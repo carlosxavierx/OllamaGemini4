@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+env/
+venv/
+
+# Dotenv
+.env
+
+# Ollama logs y datos
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Distribuibles y build
+dist/
+build/
+*.egg-info/
+
+# Windows
+*.pyc
+*.pyo
+<pycache>
+
+# Proyecto específico
+*.db
+*.sqlite
